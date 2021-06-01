@@ -1,4 +1,5 @@
 # CryptoScraper
+A small project to scrape cryptocurrency price data from the web, then construct a price change % output and send the % change via SMS.
 
 ## TODO:
 - Create function to use the coin Id/slug to get price data and do price data polling per n minutes  
